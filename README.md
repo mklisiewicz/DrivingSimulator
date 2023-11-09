@@ -3,11 +3,8 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Renders](#renders)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
