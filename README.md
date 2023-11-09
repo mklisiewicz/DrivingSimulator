@@ -8,7 +8,7 @@
 
 ## Overview
 
-This Driving Simulator is a project designed to provide a realistic driving experience by utilizing multiple actuators. The goal is to simulate various driving scenarios, such as loss of traction or car's behavior on impact and actual suspension response, offering users a dynamic and immersive environment.
+This Driving Simulator is a project designed to provide a realistic driving experience by utilizing multiple actuators. The goal is to simulate various driving scenarios, such as loss of traction or car's behavior on impact and actual suspension response, offering users a dynamic and immersive environment. Project was awarded in 2022 DPS Software Students Competition
 
 ## Features
 
