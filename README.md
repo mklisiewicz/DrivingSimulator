@@ -46,5 +46,5 @@ The project is organized into the following directories:
 
 
 **Author:**
-[Mateusz Klisiewicz]
-[mmateuszklisiewicz@gmail.com]
+Mateusz Klisiewicz
+mmateuszklisiewicz@gmail.com
